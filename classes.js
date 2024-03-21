@@ -96,5 +96,27 @@ const [melons, mangoes, ...rest] = fullSalad
 
 console.log(melons);
 console.log(mangoes);
-console.log();
 console.log(rest);
+
+//modules
+// worked on the file learn.js and message.js
+
+
+//ternary operator
+const number = 14;
+
+if (number > 20) {
+    console.log("number greater than 20")
+}
+else {
+    console.log("number less than 20");
+
+}
+number < 20
+  ? console.log("number greater than 20")
+  : console.log("number less than 20");
+
+//number ?number>20 :"very small"
+
+
+
